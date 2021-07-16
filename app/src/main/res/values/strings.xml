@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Smart_Light</string>
+    <string name="als_value">ALS Value</string>
 </resources>
