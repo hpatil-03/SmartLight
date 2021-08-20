@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">Smart_Light</string>
-    <string name="als_value">ALS Value</string>
+    <string name="app_name">AndroidBLEControl</string>
 </resources>
